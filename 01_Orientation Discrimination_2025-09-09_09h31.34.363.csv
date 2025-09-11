@@ -1,0 +1,9 @@
+﻿,Yes (up),,No (down),
+SIG PR(0),Hit ,42,Miss,9
+SIG AB,Fa ,11,Cr,21
+,,,,
+Prop hit = hit/hit+miss,0.823529412,,,
+prop fa = fa/fa+corr rejection,0.34375,,,
+,,,,
+d-prime= z(prop hit)-z(prop fa),1.331149557,,,
+c= z(prop hit) + z (prop fa)/2,-1.130024524,,,
